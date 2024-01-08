@@ -20,6 +20,9 @@ The script will ask you for the name of the output pdf file.
 
 ## Graphical User Interface (GUI) Version
 
+![GUI Version Screenshot](gui.png)
+
+
 The GUI version provides a user-friendly interface to add PDF files, arrange their order, and merge them. It's suitable for users who prefer a visual approach to file management.
 ### Features
 
