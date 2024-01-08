@@ -23,9 +23,9 @@ The script will ask you for the name of the output pdf file.
 The GUI version provides a user-friendly interface to add PDF files, arrange their order, and merge them. It's suitable for users who prefer a visual approach to file management.
 ### Features
 
-    Add PDF files using the file dialog.
-    Arrange the order of the PDFs with 'Move Up' and 'Move Down' buttons.
-    Merge all added PDFs into a single document.
+- Add PDF files using the file dialog.
+- Arrange the order of the PDFs with 'Move Up' and 'Move Down' buttons.
+- Merge all added PDFs into a single document.
 
 ### Usage
 
